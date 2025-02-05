@@ -1,3 +1,7 @@
+# Canada’s aging population
+
+*By: Francis Diawuoh*
+
 Executive Summary
 Canada’s aging population is growing rapidly, with seniors (65+) projected to make up 25% of the population by 2036. The fastest-growing demographic is those aged 85 and older, with over 62,000 Canadians expected to be 100+ by 2063. However, increased lifespan brings rising healthcare challenges, including a 40% surge in cancer cases by 2030 and a 66% rise in dementia over the next 15 years.
 
