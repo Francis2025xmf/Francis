@@ -1,4 +1,5 @@
 # Evaluating the State of Seniors Healthcare in Canada: Challenges, Innovations, and Policy Recommendations
+
 ## Background
 Canada’s population is aging. Statistics Canada reports that over 15% of population at the last census was over 65, it was 7.6% in 1960. For the first time there are more people aged 65 and older than there are children aged 0-14 years. Based on population projections the share of Canadians 65 and older will continue to rise and that by 2024 they will account for 20.1% of the population. By 2036 seniors are expected to make up 25% of the population. People aged 85 years and over make up the fastest growing age group in Canada.
  This portion of the population grew by 127% between 1993 and 2013.Statistics Canada projects, based on a medium growth scenario, there will be over 62,000 Canadians aged 100 and older by 2063.5 However, the quantity of years will be meaningless without a corresponding improvement in quality to complement it.
