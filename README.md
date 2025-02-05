@@ -1,4 +1,4 @@
-#Evalauting the State of Senior Healthcare, Challenges and Recommendations.
+# Evalauting the State of Senior Healthcare, Challenges and Recommendations.
 
 *By: Francis Ankona Diawuoh*
 
