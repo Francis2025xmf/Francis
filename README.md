@@ -1,4 +1,4 @@
-# Evalauting the State of Senior Healthcare, Challenges and Recommendations.
+# Evaluating the State of Seniors Healthcare in Canada: Challenges, Innovations, and Policy Recommendations
 
 *By: Francis Ankona Diawuoh*
 
