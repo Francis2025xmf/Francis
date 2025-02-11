@@ -1,0 +1,6 @@
+- [x] Read milestone 2
+- [ ] Touch up the markdown, etc.
+- [ ] Download the data, and put it in the "data" directory.
+- [ ] Start putting code in a code directory (e.g. "src" directory is commonly used). Whatever visualizations we create, the code should go here.
+- [ ] On paper, draw a storyboard of what you hope to visualize.  You may have to play around with the data to see the notable trends, but start with a pencil and paper.  This helps highlight the data you will need to curate to get the target dataset.
+- [ ] Let's get a few visualizations started
