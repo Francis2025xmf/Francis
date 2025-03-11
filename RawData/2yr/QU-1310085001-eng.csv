@@ -1,0 +1,82 @@
+﻿"Health characteristics of seniors aged 65 and over, Canadian Health Survey on Seniors, two-year period estimates 1 2 3 4"
+"Frequency: Occasional"
+"Table: 13-10-0850-01"
+"Release date: 2022-04-19"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Geography","Quebec",,,,,
+"Age group","65 years and over (total)",,,,,
+,"2019 / 2020",,,,,
+"Sex","Both sexes",,"Males",,"Females",
+"Characteristics 4 5 6 7 8 9 10 11","Number of persons","Percentage","Number of persons","Percentage","Number of persons","Percentage"
+"Indicators"
+"Health is perceived to be somewhat better or much better than 1 year ago 12","187,300","11.7","87,300","11.6","100,000","11.7"
+"Health is perceived to be somewhat worse or much worse than 1 year ago 12","306,800","19.1","127,500","17.0","179,300","21.0"
+"Required a visit to a medical specialist for a diagnosis or a consultation in the past 12 months 13","642,800","42.7","303,900","43.6","338,900","41.9"
+"Had the pneumococcal vaccine 14","779,500","51.3","341,100","48.3","438,400","53.9"
+"Had the shingles vaccine 15","337,600","21.6","160,400","21.9","177,200","21.3"
+"Influenza immunization in the past 12 months 16 17","717,500","47.7","323,700","46.6","393,800","48.7"
+"Used the Internet in the past 12 months 18","1,110,500","69.6","536,900","72.0","573,600","67.5"
+"Has trouble sleeping or staying asleep a little of the time or none of the time 19","895,700","59.3","469,200","67.4","426,500","52.4"
+"Has trouble sleeping or staying asleep most of the time or all of the time 19","220,000","14.6","70,100","10.1","149,900","18.4"
+"Instrumental and basic activities of daily living classification: Mild impairment/no functional impairment 20","1,483,500","94.0","702,500","95.6","781,000","92.5"
+"Instrumental and basic activities of daily living classification: Severe impairment or total impairment 20","29,200","1.9","8,600E","1.2E","20,600E","2.4E"
+"Health of mouth - very good or excellent 21","1,036,400","64.9","478,800","64.0","557,600","65.7"
+"Health of mouth - fair or poor 21","98,600","6.2","51,200","6.8","47,500","5.6"
+"Able to brush teeth without help 22","1,582,900","99.0","734,500","98.6","848,400","99.3"
+"Home has adaptations 23","410,300","25.7","148,700","19.9","261,600","30.8"
+"Had a fall in the past 12 months 24","230,700","14.5","88,500","11.8","142,300","16.7"
+"Received assistance from family, friends or neighbours for a health problem or limitation in the past 12 months 25","247,100","15.5","81,000","10.8","166,000","19.5"
+"Received community support services in the past 12 months 26","129,000","8.1","43,700","5.8","85,300","10.0"
+"Felt a lack of companionship - often 27","88,200","5.9","28,800","4.2","59,400","7.3"
+"Felt left out - often 28","28,600","1.9","8,600E","1.3E","20,000","2.5"
+"Felt isolated from others - often 29","40,600","2.7","11,900E","1.7E","28,700","3.6"
+"Felt like they wanted to participate in more social, recreational or group activities in past 12 months 30","F","F","F","F","F","F"
+"Has valid driver's license 31","1,276,500","79.9","675,500","90.4","600,900","70.7"
+
+Symbol legend:
+E, use with caution
+F, too unreliable to be published
+
+
+
+
+Footnotes:
+1,"Source: Statistics Canada, Canadian Health Survey on Seniors (CHSS)."
+2,"All estimates in this table are calculated excluding non-response categories ("refusal", "don't know", and "not stated") in the denominator."
+3,"Data for the Canadian Health Survey on Seniors (CHSS) are collected from an annual sample of approximately 23,500 respondents for each year."
+4,"The COVID-19 pandemic had major impacts on the data collection operations for Canadian Health Survey on Seniors (CHSS) 2020. The collection was stopped mid-March, towards the end of the first collection period, and did not resume until September. The second, third and fourth quarterly samples were collected during very short collection periods, each of about five weeks, from September to December. The impossibility of conducting in-person interviews, the shorter collection periods and collection capacity issues resulted in a significant decrease in the response rates. As for the 2019 CHSS cycle, survey weights were adjusted to minimize any potential bias that could arise from survey non-response; non-response adjustments and calibration using available auxiliary information were applied and are reflected in the survey weights provided with the data file. Extensive validations of survey estimates were also performed and examined from a bias analysis perspective. Despite these rigorous adjustments and validations, the high non-response increases the risk of a remaining bias and the magnitude with which such a bias could impact estimates produced using the combined 2019-2020 survey data. Therefore, users are advised to use the CHSS 2019-2020 data with caution, especially when creating estimates for small sub-populations."
+5,"The confidence interval illustrates the degree of variability associated with a rate. Wide confidence intervals indicate high variability, thus, these rates should be interpreted with due caution. When comparing estimates, it is important to use confidence intervals to determine if differences between values are statistically significant."
+6,"Bootstrapping techniques were used to produce the 95% confidence intervals (CIs)."
+7,"Data with a coefficient of variation (CV) from 15.1% to 35.0% are identified as follows: (E) use with caution."
+8,"Data with a coefficient of variation (CV) greater than 35.0% or that did not meet the minimum sample size requirement were suppressed due to extreme sampling variability and are identified as follows: (F) too unreliable to be published."
+9,"The following standard symbols are used in this Statistics Canada table: (..) for figures not available for a specific reference period and (...) for figures not applicable."
+10,"Percentages are rounded to the nearest tenth. Numbers are rounded to the nearest hundred."
+11,"Census population counts have been used to produce the population projection counts. These counts are used to ensure that the Canadian Health Survey on Seniors (CHSS) survey weights and resulting estimates included in this table are consistent with known population totals."
+12,"Population aged 65 and over who reported perceiving their own health status as being either much better or somewhat better than one year ago or either somewhat worse or much worse than one year ago, depending on the indicator. Perceived health refers to the perception of a person's health in general, either by the person himself or herself, or, in the case of proxy response, by the person responding. Health means not only the absence of disease or injury, but also physical, mental and social well-being."
+13,"Population aged 65 and over who reported requiring a visit to a medical specialist for a diagnosis or a consultation in the past 12 months."
+14,"Population aged 65 and over who reported receiving the pneumococcal vaccine as an adult. The pneumococcal vaccine protects against pneumonia. Brand names of the vaccine are Prevnar-13 and Pneumovax-23."
+15,"Population aged 65 and over who reported receiving the shingles vaccine, also known as herpes zoster vaccine, as an adult. Brand names of the vaccine are Shingrix and Zostavax."
+16,"Population aged 65 and over who reported having an influenza immunization (flu shot) in the past 12 months."
+17,"Small differences may be observed between estimates produced using the Canadian Community Health Survey (CCHS) data file and weight and those produced using the Canadian Health Survey on Seniors (CHSS) data file and weight. These differences occur because of varying sample size and calibration strategies between the two surveys."
+18,"Population aged 65 and over who reported having used the Internet in the past 12 months."
+19,"Population aged 65 and over who reported having trouble sleeping or staying asleep most of the time or all of the time or a little of the time or none of the time, depending on the indicator."
+20,"Population aged 65 and over with an overall summary score of the activities of daily living capacity - instrumental and physical dimensions indicating no functional impairment or mild impairment or severe impairment or total impairment, depending on the indicator. A 5-point scale is described in the OARS manual for the calculation of the final score, with 2 being the lowest score ("Excellent/Good") and 6 being the highest ("Total Impairment"). For the purpose of CHSS, the same 5-point scale is used. However, the instrument has been rescaled from 1 to 5 instead of from 2 to 6. Category 1 has also been renamed from "Excellent/good" to "No functional impairment." Higher values indicate greater functional impairment. This score has been created in accordance with the manual provided by the instrument's author (Multidimensional Functional Assessment of Older Adults - Duke OARS - Copyright 1988)."
+21,"Population aged 65 and over who reported their mouth health (including teeth or dentures, tongue, gums, lips and jaw joints) as being either excellent or very good or fair or poor, depending on the indicator."
+22,"Population aged 65 and over who reported being able to brush their teeth or dentures without help."
+23,"Population aged 65 and over who reported that their home has adaptations."
+24,"Population aged 65 and over who reported having had a fall in the past 12 months."
+25,"Population aged 65 and over who reported receiving assistance from family, friends, or neighbours because of a health condition or limitation that affects daily activities in the past 12 months. Assistance from paid workers or volunteer organizations is excluded."
+26,"Population aged 65 and over who reported receiving community support services because of a health condition or a limitation that affects daily activities in the past 12 months. Community support services are services provided by organizations and not individuals, for free or for a minimal payment. Assistance from family, friends or neighbours is excluded."
+27,"Population aged 65 and over who reported often feeling like they lack companionship."
+28,"Population aged 65 and over who reported often feeling left out."
+29,"Population aged 65 and over who reported often feeling isolated from others."
+30,"Population aged 65 and over who reported often feeling like they wanted to participate in more social, recreational or group activities in the past 12 months."
+31,"Population aged 65 and over who reported having a valid driver's licence (including cars, vans, trucks and motorcycles). This includes a driver’s licence where an individual is permitted to drive alone with some restrictions, for example, zero blood alcohol level."
+
+
+
+"How to cite: Statistics Canada. Table 13-10-0850-01  Health characteristics of seniors aged 65 and over, Canadian Health Survey on Seniors, two-year period estimates"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310085001
