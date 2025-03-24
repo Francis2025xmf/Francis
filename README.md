@@ -10,25 +10,48 @@ Canada’s healthcare system, originally designed for acute care, struggles to m
 [Read detailed background](Background.md)
 
 ## Key Performance Indicators
-1.	Hospitalization Rate for Seniors: This measures how often seniors are admitted to the hospital, indicating how well chronic health conditions are being managed and whether there are gaps in preventive care or access to alternative treatments like home care.
+1.Ability to Perform Oral Hygiene Independently
+This indicator assesses seniors' capacity to maintain personal oral hygiene without assistance, reflecting their physical dexterity and cognitive function. While specific statistics on Canadian seniors' ability to perform such tasks independently are limited, understanding this aspect is crucial. It highlights their level of independence and can signal the need for additional support services when declines are observed.
+
+#2.Access to Health Support
+This metric evaluates the extent to which seniors receive assistance from healthcare professionals or informal caregivers for health-related issues. Data from the National Institute on Ageing indicates that up to 58% of Canadians aged 50 and older have experienced loneliness, which can be exacerbated by limited access to health support. Ensuring adequate support is vital for managing health conditions and maintaining quality of life.
+
+#3. Interest in Social Engagement
+This indicator measures seniors' desire to participate in social or group activities, reflecting their social well-being. According to Statistics Canada, nearly one in four seniors reported barriers to social participation in 2019 and 2020, with those facing such barriers being almost three times as likely to experience loneliness. Encouraging social engagement is essential for mental and emotional health.
+
+#4.Fall Incidents
+This metric tracks the prevalence of falls among seniors, a significant health concern due to the risk of serious injury. While specific statistics on fall incidents were not found in the provided sources, monitoring this indicator is crucial for implementing preventive measures and ensuring seniors' safety.
+#5.Healthcare Utilization
+This indicator reflects the frequency of seniors' interactions with healthcare services. According to the National Institute on Ageing, as many as 41% of Canadians aged 50 and older are at risk of social isolation, which can lead to increased healthcare needs. Regular healthcare utilization is important for early detection and management of health issues.
+
+#5.Feelings of Isolation
+This metric assesses the prevalence of loneliness among seniors. A study by Statistics Canada revealed that almost one in five Canadian seniors (19%) aged 65 and older reported experiencing loneliness in 2019 and 2020, with senior women more likely to report being lonely than senior men (23% versus 15%). Addressing feelings of isolation is crucial for seniors' mental and physical health.
+
+#6.Perceived Health Decline
+This indicator captures seniors' subjective assessment of their health over time. While specific statistics on perceived health decline were not found in the provided sources, understanding this perception is important for identifying areas where healthcare interventions may be needed to improve seniors' well-being.
+
 <mark>consider adding details, e.g.</mark>
 **Technical Details:**
 
     - $Rate = {Count Of Admissions \over SeniorPopulation}$ 
     - Dimensions: By province
     - Frequency: Yearly?
-     
-2.	Hospital Readmission Rate for Seniors: This tracks the percentage of seniors who are readmitted to the hospital within 30 days of discharge. A high readmission rate suggests potential issues with discharge planning, follow-up care, or continuity of treatment after hospitalization.
-3.	Incidents (Falls, Pressure Ulcers, Medication Errors, and Infections): This KPI looks at the frequency of adverse events, such as falls, pressure ulcers, medication errors, or hospital-acquired infections, occurring in healthcare settings. These incidents can indicate concerns with the quality of care, staff training, or safety protocols in place.
-4.	Number of Medication Reviews Conducted: This reflects how often seniors receive a thorough review of their medications to ensure they are taking the right prescriptions in the correct dosages. Regular reviews can prevent medication errors, interactions, and side effects, which are common in the elderly due to polypharmacy.
-5.	Instances of Unintended Weight Loss and Malnutrition: This measures how many seniors experience significant weight loss or malnutrition, which can be signs of underlying health issues, inadequate nutrition, or a lack of support services. Addressing malnutrition is crucial for improving overall health outcomes and reducing hospitalizations.
-6.	An “age-friendly” system must aim to create a continuum that reduces dependency and enhances care as much as possible.
 
 # Analysis
 
 Some text or whatever
 
 ![Map of Canada](img/fig1.png)
+![Map of       ](img/fig2.png).
 Explanation of figure above
+![Map of](img/fig3.png).
+![Map of](img/fig4.png).
+![Map of](img/fig5.png).
+![Map of](img/fig6.png).
+![Map of](img/fig7.png).
+![Map of](img/fig8.png).
+![Map of](img/fig9.png).
+![Map of](img/fig10.png).
+
 
 
