@@ -24,6 +24,11 @@ Canada’s healthcare system, originally designed for acute care, struggles to m
 5.	Instances of Unintended Weight Loss and Malnutrition: This measures how many seniors experience significant weight loss or malnutrition, which can be signs of underlying health issues, inadequate nutrition, or a lack of support services. Addressing malnutrition is crucial for improving overall health outcomes and reducing hospitalizations.
 6.	An “age-friendly” system must aim to create a continuum that reduces dependency and enhances care as much as possible.
 
+# Analysis
 
+Some text or whatever
+
+![Map of Canada](img/fig1.png)
+Explanation of figure above
 
 
