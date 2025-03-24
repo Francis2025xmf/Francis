@@ -42,16 +42,36 @@ This indicator captures seniors' subjective assessment of their health over time
 Some text or whatever
 
 ![Map of Canada](img/fig1.png)
+By evaluating these indicators collectively, the project will provide a comprehensive analysis of the state of seniors' healthcare in Canada. It will highlight areas for policy improvement, identify gaps in healthcare access and social support, and offer data-driven recommendations for enhancing the quality of life for Canadian seniors
+
+
 ![Map of       ](img/fig2.png).
+The proportion of seniors who received assistance from nurses, Continuing Care Assistants (CCAs), or friends for health problems or limitations in the past 12 months.
+
 Explanation of figure above
 ![Map of](img/fig3.png).
+The percentage of seniors who expressed a desire to participate in recreational, social, or group activities in the past 12 months.
+
 ![Map of](img/fig4.png).
+The proportion of seniors who experienced a fall in the past 12 months.
+
 ![Map of](img/fig5.png).
+The percentage of seniors who required a visit to a doctor or consultant in the past 12 months.
+
 ![Map of](img/fig6.png).
+The proportion of seniors who reported feeling isolated from others.
+
 ![Map of](img/fig7.png).
+The percentage of seniors who perceive their health as worse or somewhat worse compared to a year ago.
+
 ![Map of](img/fig8.png).
+According to a 2023 study by Statistics Canada, almost one in five Canadian seniors (19%) aged 65 and older reported experiencing loneliness in 2019 and 2020. Senior women were more likely to report being lonely than senior men, with 23% of women and 15% of men indicating feelings of loneliness.
+
 ![Map of](img/fig9.png).
-![Map of](img/fig10.png).
+Perceived health status is a vital self-assessment reflecting an individual's overall health and well-being. Recent data from Statistics Canada indicates a notable decline in the proportion of seniors reporting very good or excellent health. Specifically, this percentage decreased from 49.9% in 2021 to 40.5% in 2023 among Canadians aged 65 and older.
+
+
+
 
 
 
