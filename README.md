@@ -30,7 +30,7 @@ This metric assesses the prevalence of loneliness among seniors. A study by Stat
 7.Perceived Health Decline
 This indicator captures seniors' subjective assessment of their health over time. While specific statistics on perceived health decline were not found in the provided sources, understanding this perception is important for identifying areas where healthcare interventions may be needed to improve seniors' well-being.
 
-<mark>consider adding details, e.g.</mark>
+
 **Technical Details:**
 
     - $Rate = {Count Of Admissions \over SeniorPopulation}$ 
