@@ -76,10 +76,18 @@ Perceived health status is a vital self-assessment reflecting an individual's ov
 
 ![Map of](img/fig21.png).
 
-## Causal |Graph
+This heatmap shows how three senior health factors are connected in Alberta and British Columbia. It reveals that older adults who are able to brush their teeth without help are much less likely to experience falls or feel lonely—which makes sense, since being more independent often goes hand-in-hand with better overall well-being. On the flip side, there's a strong link between falling and feeling lonely; seniors who’ve had a fall are more likely to also feel isolated. It highlights how physical ability and emotional well-being are closely tied together in older age.
+## Causal Graph
 
 ![Map of](img/fig22.png).
 
+This diagram shows how different factors might influence seniors' health and emotional well-being. It suggests that where someone lives (their Province) can affect their ability to take care of themselves—specifically, whether they can brush their teeth without help. That level of independence, in turn, may influence whether they’re likely to experience a fall or feel lonely. In other words, seniors who are more self-sufficient tend to be safer and feel more socially connected. The province itself may also directly impact the chances of falling or feeling isolated, possibly due to differences in healthcare access, support services, or community engagement.
 
+## Refute Analysis
 
+The analysis looked at whether a senior’s ability to brush their teeth on their own affects their chances of having a fall, while also considering which province they live in. The result showed a positive causal effect — meaning that as independence (in this case, brushing teeth) goes up, the likelihood of experiencing a fall also slightly increases (about 19.8%).
+
+## Conclusion
+
+At first glance, this finding feels surprising. You’d expect that seniors who are more independent would actually be less likely to fall. But this result might suggest that those who are more mobile and self-sufficient could also be more active or take more risks — which might lead to more falls. It could also mean that we’re missing other important factors (like health conditions or home environment) that weren’t included in the analysis. So while the data shows a link, we should take this result with caution and explore it further before drawing strong conclusions.
 
