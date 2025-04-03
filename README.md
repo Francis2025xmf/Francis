@@ -70,7 +70,15 @@ According to a 2023 study by Statistics Canada, almost one in five Canadian seni
 ![Map of](img/fig9.png).
 Perceived health status is a vital self-assessment reflecting an individual's overall health and well-being. Recent data from Statistics Canada indicates a notable decline in the proportion of seniors reporting very good or excellent health. Specifically, this percentage decreased from 49.9% in 2021 to 40.5% in 2023 among Canadians aged 65 and older.
 
+# Causal Inference and Correlation Analysis
 
+## Heat Map
+
+![Map of](img/fig21.png).
+
+## Causal |Graph
+
+![Map of](img/fig22.png).
 
 
 
