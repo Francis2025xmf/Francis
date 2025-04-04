@@ -21,6 +21,7 @@ This indicator measures seniors' desire to participate in social or group activi
 
 4.Fall Incidents
 This metric tracks the prevalence of falls among seniors, a significant health concern due to the risk of serious injury. While specific statistics on fall incidents were not found in the provided sources, monitoring this indicator is crucial for implementing preventive measures and ensuring seniors' safety.
+
 5.Healthcare Utilization
 This indicator reflects the frequency of seniors' interactions with healthcare services. According to the National Institute on Ageing, as many as 41% of Canadians aged 50 and older are at risk of social isolation, which can lead to increased healthcare needs. Regular healthcare utilization is important for early detection and management of health issues.
 
